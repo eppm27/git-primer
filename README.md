@@ -17,11 +17,7 @@ This exercise is worth 2% of your course grade.
 
 ```
 repository/
-<<<<<<< HEAD
 ├── main.py
-=======
-├── app.py
->>>>>>> origin/incorrect_branch_name
 ├── templates/
 │   ├── index.html
 │   └── calculator.html
